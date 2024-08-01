@@ -11,3 +11,11 @@ npx expo install
 npx expo install react-native-web react-dom @expo/metro-runtime
 
 npm install -g expo-cli
+
+npm install react-native-modal
+
+npm install react-native-gesture-handler
+
+npm install @react-native-async-storage/async-storage
+
+yarn add @react-native-async-storage/async-storage
