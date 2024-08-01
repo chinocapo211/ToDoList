@@ -7,3 +7,5 @@ npm install @react-navigation/bottom-tabs npm install @react-navigation/material
 npm install react-native-vector-icons npm install @react-native-async-storage/async-storage
 
 npx expo install
+
+npx expo install react-native-web react-dom @expo/metro-runtime
